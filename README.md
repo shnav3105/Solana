@@ -32,14 +32,14 @@ Setup
 1. Create a Virtual Environment
 To set up the project environment, create a virtual environment:
 
-python -m venv venv
---------------------------------------------
+--python -m venv venv
+
 
 2. Install Required Libraries
 Install the necessary libraries for the project:
 
-pip install requests pandas solana
---------------------------------------------
+--pip install requests pandas solana
+
 
 3. DEX Screener API
 The project uses the DEX Screener API to fetch token profiles. The API URL is:

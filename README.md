@@ -53,8 +53,8 @@ The project uses the DEX Screener API to fetch token profiles. The API URL is:
 
 
 # solana_wallet_analysis
-
-1. 
+1. solana wallet analysis file structure
+   
 solana_wallet_analysis/
 |
 ├── main.py          

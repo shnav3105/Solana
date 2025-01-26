@@ -1,5 +1,6 @@
 # Solana Token Purchase Tracker (Under Development)
 The Project is still under developement 
+# Ensure JSON and Environment is Installed perfectly 
 
 # Overview
 This project is designed to track and analyze the purchase behavior of Solana token buyers, specifically focusing on identifying new accounts that have just made their first Solana token purchase. The goal is to spot these new buyers and check for any excess Solana in their account, which may indicate their likelihood of purchasing more tokens in the future. This information can be useful for tracking the early adoption of newly launched tokens on the Solana blockchain.

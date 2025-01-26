@@ -1,4 +1,4 @@
-# Solana Token Tracker
+# Solana Token Purchase Tracker (Under Development)
 The Project is still under developement 
 
 # Overview

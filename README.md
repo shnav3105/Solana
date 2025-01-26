@@ -25,4 +25,5 @@ Python: Python is used for the data collection, processing, and analysis tasks.
 Web Scraping/Blockchain Monitoring: Integrates with APIs or web scraping methods to collect transaction data from decentralized exchanges.
 
 
-# Download the Repository  https://github.com/shnav3105/Solana.git
+# Download the Repository  
+https://github.com/shnav3105/Solana.git

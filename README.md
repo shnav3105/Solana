@@ -44,5 +44,5 @@ Install the necessary libraries for the project:
 3. DEX Screener API
 The project uses the DEX Screener API to fetch token profiles. The API URL is:
 
-DEX_API_URL = Available in Dex Screener Api Reference 
+`DEX_API_URL = Available in Dex Screener Api Reference`
 

@@ -1,0 +1,24 @@
+import json
+import os
+
+# Example data
+data = {"buyer": "Alice", "tokens": 100}
+
+def save_json_data(filename, data):
+    """
+    Save the given data to a JSON file with enhanced error handling.
+    """
+    try:
+        with open(filename, "w") as file:
+            print("Data being saved:", data)
+            json.dump(data, file, indent=4)
+            print(f"File saved successfully at: {os.path.abspath(filename)}")
+    except PermissionError:
+        print(f"Permission denied: Unable to save the file at {os.path.abspath(filename)}. Check your file permissions.")
+    except FileNotFoundError:
+        print(f"Invalid file path: {os.path.abspath(filename)}. Please check the directory and try again.")
+    except Exception as e:
+        print(f"An unexpected error occurred while saving the file: {e}")
+
+# Save data to "buyer_data.json"
+save_json_data("buyer_data.json", data)

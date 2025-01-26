@@ -65,5 +65,6 @@ solana_wallet_analysis/
 2. Install Required Libraries
    `pip install solana`
    
-
+3. Get you Alchemy RPC API KEY for config.py
+4. Have Your Wallet Address 
 

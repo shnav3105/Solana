@@ -1,4 +1,4 @@
-# Solana Token Purchase Tracker (Under Development)
+# Solana Token Purchase Tracker (Under Development) --
 The Project is still under developement 
 # Ensure JSON and Environment is Installed perfectly 
 
